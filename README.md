@@ -10,10 +10,6 @@
   lostdc@proton.me or add me on dc: vampire764
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,mysql" />
-</p>
-
 <hr/>
 
 <h3>core skills</h3>
