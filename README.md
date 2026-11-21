@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./black-and-white-banner-riverside-duo--black-white-manga-riverside-duo.webp" width="100%" />
+  <img src="./banner.webp" width="100%" />
 </div>
 
 <h3>about</h3>
